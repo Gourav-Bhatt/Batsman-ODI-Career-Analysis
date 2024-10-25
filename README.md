@@ -5,7 +5,7 @@
 This project presents a detailed statistical analysis of the One Day International (ODI) careers of four of India’s top batsmen: Rohit Sharma, Virat Kohli, Rishabh Pant, and Sanju Samson. The analysis explores their contributions, consistency, and impact on the Indian cricket team’s performance in ODIs.
 <br>
 <br>
-<h3>Key metrics such as</h3>
+<h3>📊 Key metrics such as</h3>
 - Total runs <br>
 - Batting average <br>
 - Strike rate <br>
