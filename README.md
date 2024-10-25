@@ -6,7 +6,6 @@ This project presents a detailed statistical analysis of the One Day Internation
 <br>
 <br>
 <h3>Key metrics such as</h3>
-<br>
 - Total runs <br>
 - Batting average <br>
 - Strike rate <br>
