@@ -11,5 +11,5 @@ This project presents a detailed statistical analysis of the One Day Internation
 - Strike rate <br>
 - Milestones like: centuries and half-centuries are covered. <br> 
 Offering a comprehensive view of each player's ODI career.
-<br>
+<br><br>
 Through this comprehensive data visualization, we aim to highlight their impact on India's ODI success and their roles in shaping Indian cricket's batting dominance.
